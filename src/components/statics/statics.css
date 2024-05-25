@@ -1,0 +1,15 @@
+.statics-container{
+    flex-direction: column;
+}
+.statics h4{
+    padding-right: 20px;
+  
+}
+.statics{
+    
+    margin-bottom: 20px;
+justify-content: center;
+align-items: center;
+    
+
+}
